@@ -1,0 +1,15 @@
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\bin\Debug\net6.0\Week7Assignment.exe
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\bin\Debug\net6.0\Week7Assignment.deps.json
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\bin\Debug\net6.0\Week7Assignment.runtimeconfig.json
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\bin\Debug\net6.0\Week7Assignment.dll
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\bin\Debug\net6.0\Week7Assignment.pdb
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\Week7Assignment.csproj.AssemblyReference.cache
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\Week7Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\Week7Assignment.AssemblyInfoInputs.cache
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\Week7Assignment.AssemblyInfo.cs
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\Week7Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\Week7Assignment.dll
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\refint\Week7Assignment.dll
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\Week7Assignment.pdb
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\Week7Assignment.genruntimeconfig.cache
+C:\Users\Jack\OneDrive\Desktop\C# Coding Stuff\Week7Assignment\obj\Debug\net6.0\ref\Week7Assignment.dll
